@@ -1,7 +1,6 @@
 head {
   background-image: url(image/backgroundhead.jpg);
-
-  background-repeat: repeat;
+  background-repeat: repeat-x,repeat-y;
 }
 body {
   
