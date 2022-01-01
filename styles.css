@@ -1,7 +1,7 @@
 head {
   background-image: url(image/backgroundhead.jpg);
-  background-position: right bottom, left top;
-  background-repeat: no-repeat;
+
+  background-repeat: repeat;
 }
 body {
   
