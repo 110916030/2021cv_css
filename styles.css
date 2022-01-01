@@ -1,25 +1,16 @@
-head {
-  background-image: url(image/backgroundhead.jpg);
-  background-repeat: repeat-x,repeat-y;
-}
+
 body {
-  
+   background-image: url(image/backgroundhead.jpg);
+  background-repeat: repeat-x,repeat-y;
   color: #40514E;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
 
-h1 {
- 
-  color: #66BFBF;
-  font-size: 5.625rem;
-  margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-}
 
 h2 {
-  color: #66BFBF;
+  color: #062929;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -39,7 +30,7 @@ hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 20%;
-  margin: 100px auto;
+  margin: 60px auto;
 }
 
 a{
@@ -60,7 +51,7 @@ a:hover {
   }
   
   .middle-container {
-    margin: 100px 0;  
+    margin: 50px 0;  
   }
   
   .bottom-container {
